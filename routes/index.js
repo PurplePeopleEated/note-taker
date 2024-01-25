@@ -1,9 +1,9 @@
-const express = require('express');
+const router = require('express').Router();
 
-const apiRouter = require('./notes');
+// Route Path
+const notesRouter = require('./notes');
 
-const app = express();
+// http://localhost:3001/api/notes/*
+router.use('/notes', notesRouter);
 
-app.use('/api', apiRouter);
-
-module.exports = app;
+module.exports = router;
