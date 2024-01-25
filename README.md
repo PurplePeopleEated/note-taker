@@ -1,6 +1,21 @@
-# note-taker
+# Note Taker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-MIT License
+## Description
+
+This is a simple note-taking app. It can save and delete custom notes with unique ids.
+
+## Table of Contents
+[Usage](#usage)
+[License](#license)
+[Contributing](#contributing)
+[Questions](#questions)
+
+## Usage
+
+Use this app to take any notes you need to keep track of!
+
+## License
+[MIT License](https://opensource.org/license/mit/)
 
 Copyright (c) 2024 PurplePeopleEated
 
@@ -21,3 +36,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## Contributing
+
+Articles Used:
+- [MDN Docs](https://developer.mozilla.org/)
+- [w3schools](https://www.w3schools.com/)
+- AI Assistant
+
+## Questions
+
+GitHub: [Profile](https://github.com/PurplePeopleEated)
